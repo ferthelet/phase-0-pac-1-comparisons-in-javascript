@@ -2,8 +2,8 @@
 
 ## Learning Goals
 
-- Identify equality operators
-- Compare numbers using relational operators
+- Identify equality operators.
+- Compare numbers using relational operators.
 
 ## Introduction
 
